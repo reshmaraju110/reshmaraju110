@@ -1,4 +1,4 @@
-# 8 CNN-Based Stock Price Prediction
+#  CNN-Based Stock Price Prediction
 
 This repository contains a Convolutional Neural Network (CNN) model built using Python to predict stock price trends based on historical stock data.
 
